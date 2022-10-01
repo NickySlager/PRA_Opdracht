@@ -103,6 +103,25 @@
       <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Esse, officia quam sint harum unde tempore labore, tempora veritatis consectetur illum, aspernatur corporis iusto doloremque delectus? Voluptas eveniet fuga consequuntur minima.</p>
       <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Accusantium repellat non, commodi veniam, deleniti illo sit tempora vel molestiae ipsam pariatur in perspiciatis animi quod iste maxime exercitationem facere doloremque.</p>
      </div>
-  </div>d
+  </div>
 </body>
+<footer>
+    <div class="footer-all">
+        <div class="footer-info">
+            <p>Email:</p>
+            <p>Tel:</p>
+            <p>Facebook:</p>
+        </div>
+        <div class="footer-info">
+            <p>Example</p>
+            <p>Example</p>
+            <p>Example</p>
+        </div>
+        <div class="footer-info">
+            <p>Example</p>
+            <p>Example</p>
+            <p>Example</p>
+        </div>
+    </div>
+</footer>
 </html>
